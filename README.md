@@ -11,10 +11,9 @@ Most of my time goes into full-stack work: React and Next.js on the front, Node 
 ## Things I've built
 
 - [UniMARKY-campus-hub](https://github.com/jatin-yadav-sekwal/UniMARKY-campus-hub) — a campus platform in TypeScript
-- [Harmony-Music](https://github.com/jatin-yadav-sekwal/Harmony-Music) — a cross-platform music streaming app in Flutter
 - [rust-url-shortener](https://github.com/jatin-yadav-sekwal/rust-url-shortener) and [rust-todo-api](https://github.com/jatin-yadav-sekwal/rust-todo-api) — small Rust services
 - [Asus-fan-control-rs](https://github.com/jatin-yadav-sekwal/Asus-fan-control-rs) — a fan control utility for ASUS laptops
-- [Dashpage](https://github.com/jatin-yadav-sekwal/Dashpage), [chat-app-server](https://github.com/jatin-yadav-sekwal/chat-app-server), [bookmark-manager-backend](https://github.com/jatin-yadav-sekwal/bookmark-manager-backend) — TypeScript projects
+- [Dashpage](https://github.com/jatin-yadav-sekwal/Dashpage), [chat-app-server](https://github.com/jatin-yadav-sekwal/chat-app-server), [bookmark-manager-backend](https://github.com/jatin-yadav-sekwal/bookmark-manager-backend), [task-management-backend](https://github.com/jatin-yadav-sekwal/task-management-backend) — TypeScript projects
 
 I'd rather ship something working and improve it than design the perfect structure up front. Most of what I know came from building things that broke and then figuring out why.
 
