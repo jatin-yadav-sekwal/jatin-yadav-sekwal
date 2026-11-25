@@ -1,53 +1,25 @@
-## 👋 Hi there! I'm Jatin Sekwal
+# Jatin Sekwal
 
-🎓 I’m a B.Tech CSE student at Central University of Haryana, currently in my 5th semester.  
-💡 I'm passionate about building practical, impactful systems that combine **modern web**, **blockchain**, **automation**, and **cloud-native development**.
+I'm a computer science student at Central University of Haryana. I build web apps, backend services, and small tools — mostly in TypeScript and Rust, with C++ and Python when the problem calls for them.
 
----
+Portfolio: https://jatin-sekwal-portfolio.pages.dev/
 
-### 🧩 Projects Loading...
-- Working on full-stack, real-world apps using **React**, **TailwindCSS**, **Framer Motion**, **Next.js**, **Bun**, **Prisma**, and **Drizzle ORM**.
-- Exploring smart contract development using:
-  - **Solidity** (Ethereum)
-  - **Rust with Anchor** (Solana)
-- Building real-time systems and APIs with **Elysia**, **PostgreSQL**, **WebSockets**, and **JWT**.
+## What I'm working on
 
----
+Most of my time goes into full-stack work: React and Next.js on the front, Node or Bun services backed by PostgreSQL on the other end. Lately I've been spending more time on Solana development with Rust and Anchor, and on Solidity contracts. I'm also reading into high-frequency trading and quant work, mostly to figure out where the performance ceiling actually is.
 
-### 📚 What I’ve Learned
-- **Frontend**: React, TailwindCSS, Framer Motion, NativeWind, Solid understanding of UI/UX
-- **Backend**: Node.js, Bun, Elysia, Express, REST APIs, Prisma, Drizzle, PostgreSQL
-- **Blockchain**: Solidity (moderate), Rust (basic), Anchor framework (learning)
-- **Languages**:
-  - 🟩 **C++** (Strong foundation)
-  - 🐍 **Python** (Moderate)
-  - ⚡ **Mojo** (for AI and numerical programming)
-  - 🦀 **Rust** (Basic)
-- **Dev Tools**: Git, VS Code, Postman, JWT, WebSockets, Docker (learning), Linux basics
+## Things I've built
 
----
+- [UniMARKY-campus-hub](https://github.com/jatin-yadav-sekwal/UniMARKY-campus-hub) — a campus platform in TypeScript
+- [Harmony-Music](https://github.com/jatin-yadav-sekwal/Harmony-Music) — a cross-platform music streaming app in Flutter
+- [rust-url-shortener](https://github.com/jatin-yadav-sekwal/rust-url-shortener) and [rust-todo-api](https://github.com/jatin-yadav-sekwal/rust-todo-api) — small Rust services
+- [Asus-fan-control-rs](https://github.com/jatin-yadav-sekwal/Asus-fan-control-rs) — a fan control utility for ASUS laptops
+- [Dashpage](https://github.com/jatin-yadav-sekwal/Dashpage), [chat-app-server](https://github.com/jatin-yadav-sekwal/chat-app-server), [bookmark-manager-backend](https://github.com/jatin-yadav-sekwal/bookmark-manager-backend) — TypeScript projects
 
-### 🧠 What I’m Currently Learning
-- Smart contract development on **Solana** using **Rust + Anchor**
-- Building AI agents using the **Mastra framework**
-- Mastering **Next.js**, **Docker**, and **clean architecture** for scalable apps
+I'd rather ship something working and improve it than design the perfect structure up front. Most of what I know came from building things that broke and then figuring out why.
 
----
+## Get in touch
 
-### 🌟 My Core Passions
-- **Full Stack Web Development**  
-- **DevOps & Cloud Computing**  
-- **Blockchain & Web3 Development**  
-- **AI Automation & Intelligent Systems**
+Twitter: [@m_jatinyadav](https://x.com/m_jatinyadav)
 
----
-
-### 🚀 Future Goals
-- Learn and implement **High-Frequency Trading (HFT)** strategies using **C++**
-- Become a **Quant Developer** combining performance, finance, and software engineering
-- Contribute to open-source projects and build tools that make developers' lives easier
-
----
-
-📫 **Let’s Connect**  
-If you’re building something interesting, I’d love to collaborate or learn from your experience!
+If you're working on something in Rust, Web3, or performance-sensitive systems, I'd like to hear about it. You can also open an issue in one of these repos.
